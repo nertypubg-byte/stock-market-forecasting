@@ -27,3 +27,5 @@ How the forecast works:
 3) The forecast is constructed as: price + trend + some noise
 4) RSI is calculated using a standard formula based on history
 5) Signal: RSI < 35 + positive forecast -> BUY, RSI > 65 + negative forecast -> SELL, otherwise HOLD
+
+Disclaimer: Data and forecasts are randomly generated for educational purposes. This does not constitute financial advice. Do not use for real investments.
